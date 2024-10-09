@@ -1,5 +1,5 @@
 #!/bin/sh
-'''exec' "/home/noir/Documents/Tutorial/Python/Belajar Django/Django Studybud Apps by Dennis Ivy/.venv/bin/python3.12" "$0" "$@"
+'''exec' "/home/noir/Documents/Courses/Youtube/Django/Django Studybud Apps by Dennis Ivy/.venv/bin/python3" "$0" "$@"
 ' '''
 # -*- coding: utf-8 -*-
 import re
